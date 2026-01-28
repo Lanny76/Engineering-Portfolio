@@ -21,6 +21,7 @@ A robust, real-time puzzle engine built from scratch. I focused on the "Brain" o
 
 **Tech Stack:** `Java`, `AWT/Swing`, `Coordinate Geometry`, `State Design Pattern`
 
+[Click here to watch the BlockDrop Demo](<assets/BlockDrop 2025-03-11 21-58-38.mp4>)
 
 
 ---
@@ -38,7 +39,13 @@ A deep dive into systems programming, focusing on how software interfaces direct
 
 **Tech Stack:** `C (C11)`, `x86-64 Assembly`, `pthreads`, `mmap`, `Valgrind`, `GDB`
 
+#### El_Malloc Demo
 
+![Custom Malloc Performance Demo](assets/El_Malloc_Demo.png)
+
+#### Benchmark Comparison Before and After Speedup
+
+![Matrix Algorithm Speedup Benchmark](assets/matrix_algorithm_benchmark.png)
 
 ---
 
@@ -53,6 +60,9 @@ A data-driven application that parses complex financial datasets to provide acti
 
 **Tech Stack:** `C`, `Data Modeling`, `Algorithms`
 
+#### Sample Data Visualization
+
+![Stock Data Visualization](assets/StockVisualized.png)
 ---
 
 ## 📫 Contact & Links
