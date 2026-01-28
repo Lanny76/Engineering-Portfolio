@@ -21,6 +21,8 @@ A robust, real-time puzzle engine built from scratch. I focused on the "Brain" o
 
 **Tech Stack:** `Java`, `AWT/Swing`, `Coordinate Geometry`, `State Design Pattern`
 
+![Block Drop Demo](assets/BlockDrop_Demo_Thumbnail.png)
+
 [Click here to watch the BlockDrop Demo](<assets/BlockDrop 2025-03-11 21-58-38.mp4>)
 
 
